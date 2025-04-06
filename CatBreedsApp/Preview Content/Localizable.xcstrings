@@ -1,0 +1,68 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Adaptability: %lld" : {
+
+    },
+    "Cat description:" : {
+
+    },
+    "Cat temperament:" : {
+
+    },
+    "Country: %@" : {
+
+    },
+    "dismiss.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dismiss"
+          }
+        }
+      }
+    },
+    "Intelligence: %lld" : {
+
+    },
+    "Life span: %@ years" : {
+
+    },
+    "loadMore.message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding more cats..."
+          }
+        }
+      }
+    },
+    "navigation.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cat breeds"
+          }
+        }
+      }
+    },
+    "networkError.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oops! Something went wrong. Try again later"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
