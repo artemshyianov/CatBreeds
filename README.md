@@ -1,7 +1,35 @@
+# CatBreeds
+CatBreeds is an iOS application developed in Swift that fetches a list of cat breeds from TheCatAPI and displays them in a visually appealing list using SwiftUI. 
 
-## Testing
-You need to have XCode 16 to run this project
+## Requirements
 
+- macOS Monterey 12.0 or later
+- Xcode 13.2 or later
+- Swift 5.0 or later
+- iOS Simulator/Device 15.2 or later 
+
+---
+
+## Setup
+
+### Open the project in Xcode
+
+```bash
+open CatBreeds.xcodeproj
+```
+
+### Running the Project
+
+1. Open the project in Xcode
+2. Select your target device (iOS Simulator or physical device)
+3. Click the "Run" button (▶️) or press `Cmd + R` to build and run the project
+
+
+### Running Project Example
+
+Screenshots of the full flow are in the `Screenshots` folder.
+
+Example:
 <table>
   <tr>
     <td>List View</td>
