@@ -27,7 +27,7 @@ open CatBreeds.xcodeproj
 
 ### Running Project Example
 
-Screenshots of the full flow are in the `Screenshots` folder.
+Screenshots of the full flow:
 
 Example:
 <table>
