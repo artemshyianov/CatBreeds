@@ -3,10 +3,10 @@ CatBreeds is an iOS application developed in Swift that fetches a list of cat br
 
 ## Requirements
 
-- macOS Monterey 12.0 or later
-- Xcode 13.2 or later
+- macOS Sequoia 15.0 or later
+- Xcode 16.2 or later
 - Swift 5.0 or later
-- iOS Simulator/Device 15.2 or later 
+- iOS Simulator/Device 17 or later 
 
 ---
 
